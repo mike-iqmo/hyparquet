@@ -1,5 +1,5 @@
 {
-  "name": "hyparquet",
+  "name": "@iqmo/hyparquet",
   "version": "1.13.1",
   "description": "Parquet file parser for JavaScript",
   "author": "Hyperparam",
